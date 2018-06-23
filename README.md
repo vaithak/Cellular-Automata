@@ -1,2 +1,2 @@
-# Game-Of-Life
-Simulation of life using Conway's game of life.
+# Cellular Automata  
+Cellular Automata and Simulation of life using Conway's game.
