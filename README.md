@@ -53,7 +53,7 @@ From Wolfram Mathworld
       generation is shown below in the center.
 ```  
 
-![image](http://mathworld.wolfram.com/images/eps-gif/ElementaryCA30_1000.gif)  
+![image](https://utiny.herokuapp.com/gN)  
 
 ```
    The evolution of a one-dimensional cellular automaton can be illustrated by starting with
@@ -91,4 +91,4 @@ Each generation is a pure function of the preceding one.
 The rules continue to be applied repeatedly to create further generations.  
 
 
-[Game Of Life Demo]https://utiny.herokuapp.com/gD).  
+[Game Of Life Demo](https://utiny.herokuapp.com/gD).  
