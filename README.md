@@ -91,4 +91,4 @@ Each generation is a pure function of the preceding one.
 The rules continue to be applied repeatedly to create further generations.  
 
 
-[Game Of Life Demo](https://utiny.herokuapp.com/gD).  
+[Game Of Life Demo](http://vaithak-cellular-automata.surge.sh)  
